@@ -1,0 +1,6 @@
+COMIC BOOK RENTAL SHOP # SE2006-Group06 | Class: SE2006
+1|One Piece|2|Eiichiro Oda|1
+2|Naruto|2|Masashi Kishimoto|5
+3|Detective Conan|1|Gosho Aoyama|10
+4|Dragon Ball|2|Akira Toriyama|3
+5|Attack on Titan|3|Hajime Isayama|2
